@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/unboring/static/css/main.1855f086.css",
+    "main.css": "/unboring/static/css/main.bf2030a3.css",
     "main.js": "/unboring/static/js/main.3c433193.js",
     "static/js/787.20031d99.chunk.js": "/unboring/static/js/787.20031d99.chunk.js",
     "index.html": "/unboring/index.html",
-    "main.1855f086.css.map": "/unboring/static/css/main.1855f086.css.map",
+    "main.bf2030a3.css.map": "/unboring/static/css/main.bf2030a3.css.map",
     "main.3c433193.js.map": "/unboring/static/js/main.3c433193.js.map",
     "787.20031d99.chunk.js.map": "/unboring/static/js/787.20031d99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1855f086.css",
+    "static/css/main.bf2030a3.css",
     "static/js/main.3c433193.js"
   ]
 }
